@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.shows</groupId>
-	<artifactId>UrbanLaddder</artifactId>
+	<artifactId>UrbanLadder</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>UrbanLaddder</name>
