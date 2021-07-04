@@ -5,7 +5,7 @@
 		<classes>
 			<class name="TestCaseClasses.GiftCardTest" />
 			<class name="TestCaseClasses.BookShelvesPageTest" />
-			<class name="TestCaseClasses.BeingAtHomeTest" />
+			<!--<class name="TestCaseClasses.BeingAtHomeTest" />-->
 			<class name="TestCaseClasses.GetStudyChairTest" />
 		</classes>
 	</test> <!-- Test -->
